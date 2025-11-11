@@ -22,3 +22,6 @@ VS Code for development
 Optional: Bootstrap / Tailwind CSS for responsive styling
 
 ##OUTPUT 
+<img width="1065" height="591" alt="Image" src="https://github.com/user-attachments/assets/0ae3d760-3c6d-4783-b67c-2024c545b497" />
+
+<img width="1054" height="586" alt="Image" src="https://github.com/user-attachments/assets/3696fd08-eaf5-48e0-ac91-7a2caa35395f" />
